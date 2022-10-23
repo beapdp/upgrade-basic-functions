@@ -5,5 +5,4 @@ function sum(numberOne , numberTwo) {
         return numberTwo;
     }
   }
-
-  sum(2,6);
+sum(4,8)
